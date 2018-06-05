@@ -1,6 +1,6 @@
 # kirby-pug
 
-Phug templating support for Kirby CMS. This relies on (Pug-php)[https://github.com/pug-php/pug], and I have found it a joy to use. As it stands it uses the php expressionLanguage, and comes pre-installed with coffee-script and less filters.
+Phug templating support for Kirby CMS. This relies on [Pug-php](https://github.com/pug-php/pug), and I have found it a joy to use. As it stands it uses the php expressionLanguage, and comes pre-installed with coffee-script and less filters.
 
 ## Installation
 
